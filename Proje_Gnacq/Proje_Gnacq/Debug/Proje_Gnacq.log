@@ -1,0 +1,8 @@
+﻿  Main.cpp
+C:\Users\geram\source\repos\C++_PROJECTS\Proje_Gnacq\Proje_Gnacq\Vagon.h(28,21): warning C4018: '<': signed/unsigned mismatch
+C:\Users\geram\source\repos\C++_PROJECTS\Proje_Gnacq\Proje_Gnacq\Gnacq.h(11,39): warning C4018: '<': signed/unsigned mismatch
+C:\Users\geram\source\repos\C++_PROJECTS\Proje_Gnacq\Proje_Gnacq\Main.cpp(19,12): warning C4244: 'initializing': conversion from 'std::streamoff' to 'int', possible loss of data
+C:\Users\geram\source\repos\C++_PROJECTS\Proje_Gnacq\Proje_Gnacq\Main.cpp(134,37): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+C:\Users\geram\source\repos\C++_PROJECTS\Proje_Gnacq\Proje_Gnacq\Main.cpp(141,39): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+C:\Users\geram\source\repos\C++_PROJECTS\Proje_Gnacq\Proje_Gnacq\Main.cpp(148,45): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+C:\Users\geram\source\repos\C++_PROJECTS\Proje_Gnacq\Proje_Gnacq\Main.cpp(111): error C4700: uninitialized local variable 'vag' used
